@@ -1,0 +1,30 @@
+body{
+    background-color: #ffb2a5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 175px;
+    z-index: 2;
+    border-bottom: solid 1px #eecfcc;
+}
+
+.leftmenu{
+    top: 150px;
+    left: 5px;
+    width: 100px;
+    bottom: 45px;
+    z-index: 1;
+    padding-top: 40px;
+}
+
+.mainbody{
+    top: 175px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+}4
